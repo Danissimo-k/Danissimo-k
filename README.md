@@ -4,8 +4,7 @@
 <!-- BLOG-POST-LIST:END -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danissimo-k&langs_count=5&theme=darcula&hide_border=false)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danissimo-k&show_icons=true&theme=darcula
-)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Danissimo-k&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
@@ -91,7 +90,8 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danissimo-k&show_icons=true&theme=darcula
+)  
 
 <br/>  
 
