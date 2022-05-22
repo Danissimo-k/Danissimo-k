@@ -1,13 +1,4 @@
 ### Hi there 👋
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danissimo-k&langs_count=5&theme=darcula&hide_border=false)
-
-
-
-
-
 <!--
 
 **Danissimo-k/Danissimo-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -90,6 +81,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
+ 
+## Top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danissimo-k&langs_count=5&theme=darcula&hide_border=false)
 <br/> 
