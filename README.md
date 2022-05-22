@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 
 -->
 # Blog post
+### <div align="center">I am Danil, junior web-developer 🌐</div>
 <br/>
-### <div align="center">I am Danil, junior web-developer 🌐</div>  
-  
 
 - 🌱 I’m currently learning Node js and React js  
   
