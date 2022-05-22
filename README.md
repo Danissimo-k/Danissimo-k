@@ -77,6 +77,7 @@ trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danissimo-k&langs_count=5&theme=darcula&hide_border=false)
 
 <br/> 
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Danissimo-k" target="_blank">
