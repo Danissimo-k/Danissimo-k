@@ -75,6 +75,13 @@ Here are some ideas to get you started:
 <br/>  
 
 
+ 
+
+
+## Github Stats  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danissimo-k&show_icons=true&theme=darcula
+)  
+<br/>  
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Danissimo-k" target="_blank">
@@ -86,19 +93,4 @@ Here are some ideas to get you started:
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<br/>  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danissimo-k&show_icons=true&theme=darcula
-)  
-
-
-
-
-
-<br />
-
-----
-
+<br/> 
