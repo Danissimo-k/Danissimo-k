@@ -8,8 +8,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Danissimo-k&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-## My trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Danissimo-k)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 
 **Danissimo-k/Danissimo-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -82,6 +81,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danissimo-k&show_icons=true&theme=darcula
 )  
 <br/>  
+## My trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Danissimo-k)](https://github.com/ryo-ma/github-profile-trophy)
+<br/> 
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Danissimo-k" target="_blank">
