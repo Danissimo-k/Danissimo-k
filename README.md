@@ -70,6 +70,10 @@ Here are some ideas to get you started:
 <br/>  
 ## My trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Danissimo-k)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>  
+ 
+## Top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danissimo-k&langs_count=5&theme=darcula&hide_border=false)
 <br/> 
 ## Connect with me  
 <div align="center">
@@ -79,10 +83,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/16172021/cool-xЛeb" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
- 
-## Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danissimo-k&langs_count=5&theme=darcula&hide_border=false)
-<br/> 
+</div> 
+
 <br/> 
 
