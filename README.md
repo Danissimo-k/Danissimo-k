@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 
 **Danissimo-k/Danissimo-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 
 -->
-# Blog post
+# Hi there 👋
 ### <div align="center">I am Danil, junior web-developer 🌐</div>
 <br/>
 
@@ -85,3 +84,5 @@ Here are some ideas to get you started:
 ## Top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danissimo-k&langs_count=5&theme=darcula&hide_border=false)
 <br/> 
+<br/> 
+
