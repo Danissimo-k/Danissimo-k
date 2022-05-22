@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danissimo-k&langs_count=5&theme=darcula&hide_border=false)
@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 
 -->
-
+# Blog post
+<br/>
 ### <div align="center">I am Danil, junior web-developer 🌐</div>  
   
 
