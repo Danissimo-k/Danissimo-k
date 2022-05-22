@@ -6,7 +6,6 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Danissimo-k&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 <!--
@@ -72,10 +71,8 @@ Here are some ideas to get you started:
 </td></tr></table>  
 
 <br/>  
-
-
- 
-
+## My streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Danissimo-k&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Github Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danissimo-k&show_icons=true&theme=darcula
