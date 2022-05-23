@@ -70,8 +70,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## My trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Danissimo-k)](https://github.com/ryo-ma/github-profile-
-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Danissimo-k)]
 
 <br/>  
  
