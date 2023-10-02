@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -->
 # Hi there 👋
-### <div align="center">I am Danil, junior web-developer 🌐</div>
+### <div align="center">I am Danil, web-developer 🌐</div>
 <br/>
 
 - 🌱 I’m currently learning Node js and React js  
