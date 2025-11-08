@@ -16,19 +16,6 @@ Here are some ideas to get you started:
 
 
 -->
-# Hi there 👋
-### <div align="center">I am Danil, web-developer 🌐</div>
-<br/>
-
-- 🌱 I’m currently learning Node js and React js  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
